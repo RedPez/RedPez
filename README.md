@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RedPez
+- 👋 Hi, I’m Perrie Routledge 
 - 👀 I’m interested in ... Web Marketing
 - 🌱 I’m currently learning ... Frontend Devleopment and UX Design
 - 💞️ I’m looking to collaborate with ... people looking for help in growing their conversions. 
